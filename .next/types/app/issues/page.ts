@@ -1,4 +1,4 @@
-// File: C:\Users\Queli Serrano\Desktop\NextLearn\my-app\src\app\issues\page.tsx
+// File: C:\Users\Queli Serrano\Desktop\NextLearn\issue-tracker\src\app\issues\page.tsx
 import * as entry from '../../../../src/app/issues/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
